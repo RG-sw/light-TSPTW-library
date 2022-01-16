@@ -30,3 +30,5 @@ Goal : find the shortest route for visiting every store and return to the starti
 ## Map Visualitazion with MapBox
 ![image](https://user-images.githubusercontent.com/94836571/149630598-97ebc804-f3b9-45d4-a61f-cbeb17e50153.png)
 
+# Disclaimer
+Main.py is for usage example purposes only
